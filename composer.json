@@ -1,0 +1,7 @@
+{
+    "name": "fsm/sf-less-plugin",
+    "type": "symfony1-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
